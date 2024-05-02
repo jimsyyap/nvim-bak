@@ -18,6 +18,8 @@ return {
     end,
 }
 
+-- for  catppuccin readme https://github.com/catppuccin/nvim
+
 --return {
 --  "folke/tokyonight.nvim",
 --  priority = 1000,
